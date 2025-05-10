@@ -88,11 +88,11 @@ def check_balance():
       global Balance
       Userid=generateuser_id()
       userid=int(input('enter the yourid'))
-      if userid==Userid
+      if userid==Userid:
           print('currently balance is:-')
 
 #choose the option for admin#
-def choose_option()
+def choose_option():
 
 print(f'\n==== choosing your options=====\n')
 print('1.Create the account')
@@ -167,3 +167,4 @@ def customers_sigin():
     else:
         print("You need to create the account ")
     
+ withdraw()    
