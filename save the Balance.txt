@@ -1,1 +1,1 @@
-U78740,5000U56, initial_balance:4000
+U78740,5000U56, initial_balance:4000U20, initial_balance:0U42, initial_balance:0
